@@ -1,0 +1,31 @@
+body{
+    background-color: lightslategray;
+}
+hr { 
+    height: 1px;
+    background-color: purple;
+    border: none;
+}
+h1 {text-align: center;
+    border-style: double;
+    border-color: purple;
+    border-width: 3px 4px;
+}
+h2 {text-align: center;}
+h3 { 
+    text-align: center;
+    color:black   
+}
+p {
+    text-indent: 1cm;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid purple;
+    border-radius: 12px;
+}
+ul {display: table;
+}
+
